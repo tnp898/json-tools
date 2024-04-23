@@ -58,3 +58,4 @@ if __name__ == "__main__":
 # fix 2831
 # optimize 1457
 # fix 5119
+# refactor 6762
