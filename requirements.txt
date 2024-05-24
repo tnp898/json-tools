@@ -7,3 +7,4 @@ eth-abi==0.6.0
 eth-abi==1.5.1
 requests==0.9.9
 eth-abi==0.1.9
+requests==2.6.9
