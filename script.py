@@ -66,3 +66,4 @@ if __name__ == "__main__":
 # fix 6095
 # fix 4810
 # refactor 7943
+# fix 6756
