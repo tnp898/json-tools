@@ -37,3 +37,4 @@ if __name__ == "__main__":
     main()
 # fix 5238
 # optimize 9852
+# optimize 1260
