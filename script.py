@@ -39,3 +39,4 @@ if __name__ == "__main__":
 # optimize 9852
 # optimize 1260
 # fix 3105
+# optimize 3626
