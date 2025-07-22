@@ -79,3 +79,4 @@ if __name__ == "__main__":
 # optimize 9331
 # optimize 3224
 # refactor 9810
+# fix 6670
